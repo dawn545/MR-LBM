@@ -63,3 +63,10 @@ A jet entering the computational domain through a centered inlet.
 ## Project Goal
 
 The project was developed to study the implementation details of **moment-representation LBM**, GPU acceleration with CUDA, and the interaction between numerical fluid simulation and real-time visualization.
+
+## Runtime effect
+<img width="1012" height="753" alt="屏幕截图 2026-09-25 002959" src="https://github.com/user-attachments/assets/571bc48f-db65-4446-966f-3401fe31dffc" />
+<img width="1021" height="755" alt="屏幕截图 2026-09-25 003115" src="https://github.com/user-attachments/assets/88778ed3-21ef-4772-8c99-f9022d4d0a72" />
+<img width="1012" height="748" alt="屏幕截图 2026-09-25 003100" src="https://github.com/user-attachments/assets/d406afca-9678-4633-b2e8-d270eec467ed" />
+<img width="1016" height="751" alt="屏幕截图 2026-09-25 003023" src="https://github.com/user-attachments/assets/845e7bfd-edab-4068-8916-1216731de0ac" />
+
